@@ -3,9 +3,7 @@
 <head>
 
 <title>
-
 Maven Sample WebApp
-
 </title>
 
 </head>
