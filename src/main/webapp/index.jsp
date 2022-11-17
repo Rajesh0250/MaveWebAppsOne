@@ -1,5 +1,19 @@
 <html>
+
+<head>
+
+<title>
+
+Maven Sample WebApp
+
+</title>
+
+</head>
+
 <body>
-<h2>Hello welcome again</h2>
+
+<h2>Hello Welcome to our First sample Page</h2>
+
 </body>
+
 </html>
